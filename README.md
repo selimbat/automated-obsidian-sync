@@ -1,4 +1,4 @@
-This repo presents a technique to automatically synchronize your obsidian vault among all your devices.
+This repo presents a technique to automatically synchronize your obsidian vault between all your devices.
 
 ## Requirements
 This technique requires your vault to be managed by git, with something like Termux on android.
